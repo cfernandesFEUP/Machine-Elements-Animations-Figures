@@ -20,5 +20,8 @@ This repository contains resources for the courses **L.EM027 Órgãos de Máquin
 - **TRIB** - Tribologia
 
 ### Lectures
-- **ATX** - Aula Teórica nº X
+- **ATX** - Aula Teórico-prática nº X
 - **APX** - Aula Prática nº X
+- **TX** - Aula Teórica nº X
+- **LX** - Lecture number X
+- **RX** - Recitation number X
