@@ -14,3 +14,6 @@ RB - rolling element bearings
 RC - rotating cylinders
 TC - thick cylinders
 TRIB - tribologia 
+
+ATX - aula teórica nº X
+APX - aula prática nº X
