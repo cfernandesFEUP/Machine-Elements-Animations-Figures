@@ -10,14 +10,14 @@ This repository contains resources for the courses **L.EM027 Órgãos de Máquin
 
 ### Topics
 - **CB** - Curved Beams
-- **ENG** - Engrenagens (Gears)
-- **FAD** - Fadiga (Fatigue)
+- **ENG** - Engrenagens
+- **FAD** - Fadiga
 - **GEAR** - Gears
-- **PAR** - Parafusos (Bolts)
+- **PAR** - Parafusos
 - **RB** - Rolling Element Bearings
 - **RC** - Rotating Cylinders
 - **TC** - Thick Cylinders
-- **TRIB** - Tribologia (Tribology)
+- **TRIB** - Tribologia
 
 ### Lectures
 - **ATX** - Aula Teórica nº X
