@@ -9,6 +9,7 @@ CB - curved beams
 ENG - engrenagens
 FAD - fadiga
 GEAR - gears
+PAR - parafusos
 RB - rolling element bearings
 RC - rotating cylinders
 TC - thick cylinders
