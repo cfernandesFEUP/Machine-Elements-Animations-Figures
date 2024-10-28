@@ -1,19 +1,24 @@
-Repository with animations, figures and finite element input files for the courses of for L.EM027 Órgãos de Máquinas (OM) e M.EM003 Complements of Machine Elements (COM)
+# Repository for Animations, Figures, and Finite Element Input Files
 
-The following nomenclature is used:
+This repository contains resources for the courses **L.EM027 Órgãos de Máquinas (OM)** and **M.EM003 Complements of Machine Elements (COM)**. Included are animations, figures, and finite element input files, organized by subject and lecture type.
 
-OM - Órgãos de Máquinas
-COM - Complements of Machine Elements
+## Nomenclature
 
-CB - curved beams
-ENG - engrenagens
-FAD - fadiga
-GEAR - gears
-PAR - parafusos
-RB - rolling element bearings
-RC - rotating cylinders
-TC - thick cylinders
-TRIB - tribologia 
+### Courses
+- **OM** - Órgãos de Máquinas
+- **COM** - Complements of Machine Elements
 
-ATX - aula teórica nº X
-APX - aula prática nº X
+### Topics
+- **CB** - Curved Beams
+- **ENG** - Engrenagens (Gears)
+- **FAD** - Fadiga (Fatigue)
+- **GEAR** - Gears
+- **PAR** - Parafusos (Bolts)
+- **RB** - Rolling Element Bearings
+- **RC** - Rotating Cylinders
+- **TC** - Thick Cylinders
+- **TRIB** - Tribologia (Tribology)
+
+### Lectures
+- **ATX** - Aula Teórica nº X
+- **APX** - Aula Prática nº X
