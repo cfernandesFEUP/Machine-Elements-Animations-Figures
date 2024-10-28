@@ -12,3 +12,4 @@ GEAR - gears
 RB - rolling element bearings
 RC - rotating cylinders
 TC - thick cylinders
+TRIB - tribologia 
